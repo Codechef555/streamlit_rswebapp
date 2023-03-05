@@ -1,6 +1,7 @@
 streamlit
 pdfplumber
 spacy
+upgrade pip python
 sklearn
 TfidVectorizer
 cosine_similarity
