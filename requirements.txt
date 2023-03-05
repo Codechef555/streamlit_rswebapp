@@ -1,5 +1,6 @@
 pdfplumber
 spacy
-scikit-learn
+pip install scikit-learn
+-m pip install --upgrade pip
 TfidVectorizer
 cosine_similarity
