@@ -3,4 +3,3 @@ pdfplumber
 spacy
 sklearn
 cosine_similarity
-streamlit version
