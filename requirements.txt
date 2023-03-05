@@ -1,4 +1,5 @@
 pdfplumber
 spacy
+scikit-learn
 TfidVectorizer
 cosine_similarity
