@@ -2,7 +2,5 @@ streamlit
 pdfplumber
 spacy
 sklearn
-TfidVectorizer
 cosine_similarity
-/home/appuser/venv/bin/python -m pip install --upgrade pip
 streamlit version
